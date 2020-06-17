@@ -1,0 +1,24 @@
+E.faecalis.1_2
+A.baumannii.1_1
+A.odontolyticus.1_1
+B.cereus.1_1
+B.vulgatus.1_1
+B.vulgatus.2_1 B.vulgatus.5_1 B.vulgatus.4_1
+B.vulgatus.7_1
+C.beijerinckii.1_1 C.beijerinckii.3_1 C.beijerinckii.4_1
+D.radiodurans.1_1
+E.coli.1_1
+H.pylori.1_1
+L.gasseri.1_1
+L.monocytogenes.1_1
+N.meningitidis.1_1
+P.acnes.1_1
+P.aeruginosa.1_1 P.aeruginosa.2_1
+P.gingivalis.1_1
+R.sphaeroides.1_1
+S.agalactiae.1_1
+S.aureus.1_1 S.aureus.5_1
+S.epidermidis.1_1 S.epidermidis.2_1
+S.epidermidis.5_1
+S.mutans.1_1
+S.pneumoniae.1_1

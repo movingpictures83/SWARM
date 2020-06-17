@@ -1,0 +1,2 @@
+Prefix plugins/SWARM/example
+Plugin SWARM inputfile HMP_MOCK.v35.fasta outputfile output.swarm.txt
