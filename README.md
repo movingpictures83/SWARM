@@ -1,7 +1,9 @@
+# SWARM
 # Language: C++
 # Input: FASTA
 # Output: TXT
-# Tested with: PluMA 1.0, GCC 4.8.4
+# Tested with: PluMA 1.1, GCC 4.8.4
+# Dependency: Swarm 3.0.0
 
 PluMA plugin to run cluster and classify sequences using SWARM (Mahe et al, 2014).
 
